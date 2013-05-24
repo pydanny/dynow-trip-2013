@@ -7,5 +7,5 @@ Researching my family.
 * lineage_
 * addresses_
 
-.. _lineage:: https://github.com/pydanny/dynow-trip-2013/blob/master/lineage.rst
-.. _addresses:: https://github.com/pydanny/dynow-trip-2013/blob/master/addresses.txt
+.. _lineage: https://github.com/pydanny/dynow-trip-2013/blob/master/lineage.rst
+.. _addresses: https://github.com/pydanny/dynow-trip-2013/blob/master/addresses.txt

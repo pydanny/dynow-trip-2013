@@ -35,3 +35,20 @@ Feige married Mayer Weitzler, a tailor, from Stara Sol, Austria about 1894.
 Feige Arm Weitzler + Mayer Weitzler’s children: Regina, Julius, Blanche, Jacob and Irving
 
 Meyer Weitzler’s Ellis Island record: http://www.ellisisland.org/search/FormatPassRec.asp?ID=102175150107&BN=P00217-5&sship=Cassel&lineshipid=179
+
+Children of Moses Aaron
+=======================
+
+* Feige, the oldest, Bernice Bernstein’s grandmother, did not come to the states. She was married to Mayer Weitzler
+* David,
+* Tillie, Bernice Bernstein’s father's mother
+* Becky
+* Jenny
+* Annie
+* Isadore Aaron (My great-grandfather who came in 1901)
+
+    * Maurice Aaron (Grandfather)
+    
+        * Antonie Greenfeld nee Aaron (Mother)
+        
+            * Daniel Greenfeld (me)

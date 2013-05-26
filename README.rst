@@ -2,6 +2,20 @@
 Dynow Trip 2013
 ======================
 
+Places visited so far
+-----------------------
+
+* The Graveyard of my ancestors
+* Bibliothetica (need to return)
+* Jewish Center (details forthcoming)
+
+Tips for visitors
+-------------------
+
+* Bring a Polish translator. Don't do this without understanding Polish.
+* It doesn't hurt to know Hebrew either.
+
+
 Researching my family. 
 
 * lineage_

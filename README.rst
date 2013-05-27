@@ -53,6 +53,7 @@ Dynow Links
 
 * http://kehilalinks.jewishgen.org/dynow/
 * http://www.jewishgen.org/yizkor/dynow/dynow.html
+* http://kptg.pl/index.php?option=com_content&task=view&id=74&Itemid=48&limit=1&limitstart=4
 
 Directions to Dynow from Krakow
 =================================

@@ -1,31 +1,33 @@
-National Archive in Przemyśl:
+National Archive in Przemyśl::
 
-Archiwum Państwowe w Przemyślu
-37-700 Przemyśl, ul. Lelewela 4
-tel: (16) 670-35-38
-fax: 670-76-34
-email: archiwum@przemysl.ap.gov.pl
-www.przemysl.ap.gov.pl
+    Archiwum Państwowe w Przemyślu
+    37-700 Przemyśl, ul. Lelewela 4
+    tel: (16) 670-35-38
+    fax: 670-76-34
+    email: archiwum@przemysl.ap.gov.pl
+    www.przemysl.ap.gov.pl
 
 
-Cemeteries:
+Cemeteries::
 
-Grunwaldzka, 36-065 Dynów, Poland ‎
+    Grunwaldzka, 36-065 Dynów, Poland ‎
 
-History of Polish Jews Center (not sure if it still exists):
-Centrum Historii Polskich Żydów
-ul. Łazienna 70
-36-065 Dynów
-email: polandjewish@gmail.com
+    History of Polish Jews Center (not sure if it still exists):
+    Centrum Historii Polskich Żydów
+    ul. Łazienna 70
+    36-065 Dynów
+    email: polandjewish@gmail.com
 
-Library in Dynów:
-Biblioteka Publiczna Miejskamore info
-ks. Ożoga 6
-36-065 Gmina Dynów, Poland
-16 652 26 53
+Library in Dynów::
 
-Library in Przemyśl:
-Przemyska Biblioteka Publiczna im I. Krasickiego
-ul. J. SŁOWACKIEGO 15
-37 - 700 PRZEMYŚL
-http://www.biblioteka.przemysl.pl/
+    Biblioteka Publiczna Miejskamore info
+    ks. Ożoga 6
+    36-065 Gmina Dynów, Poland
+    16 652 26 53
+
+Library in Przemyśl::
+
+    Przemyska Biblioteka Publiczna im I. Krasickiego
+    ul. J. SŁOWACKIEGO 15
+    37 - 700 PRZEMYŚL
+    http://www.biblioteka.przemysl.pl/

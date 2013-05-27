@@ -5,16 +5,24 @@ Dynow Trip 2013
 Places visited so far
 -----------------------
 
-* The Graveyard of my ancestors
-* Bibliothetica (need to return)
-* Jewish Center (details forthcoming)
+* Dynow: The Graveyard of my ancestors
+* Dynow: Bibliothetica (need to return)
+* Dynow: Jewish Center (details forthcoming)
+* Lancut: Lancut Castle (Sunday so everything research related was closed)
 
-Tips for visitors
--------------------
+Days
+------
 
-* Bring a Polish translator. Don't do this without understanding Polish.
+Day 1: Woke up, rented car, Tomek drove us from Krakow to Dynow. About 3 hours. Most of it by the new Dynow to Rzezow highway in 1 hour, then 2 hours for the rest down windy country roads.
+
+Tips for Jews tracking down roots in Poland
+---------------------------------------------
+
+* Bring a Polish translator. Seriously.
 * It doesn't hurt to know Hebrew either.
-
+* Bring small gifts for people who maintain things like libraries and archives.
+* Rent a car. That means an international driver's license (or local driver) and ability to drive stick shift.
+* Poland, outside or railway and a small highways still under active construction, is curvy country roads. This makes distances very large. In the US 200 miles is 3 hours, in Poland it takes 6-8 hours to traverse the same distance.
 
 Researching my family. 
 

@@ -3,20 +3,26 @@ Dynow Trip 2013
 ======================
 
 Places visited so far
------------------------
+=========================
 
 * Dynow: The Graveyard of my ancestors
-* Dynow: Bibliothetica (need to return)
+* Dynow: Bibliothetic (need to return)
 * Dynow: Jewish Center (details forthcoming)
 * Lancut: Lancut Castle (Sunday so everything research related was closed)
 
 Days
-------
+=====
 
-Day 1: Woke up, rented car, Tomek drove us from Krakow to Dynow. About 3 hours. Most of it by the new Dynow to Rzezow highway in 1 hour, then 2 hours for the rest down windy country roads.
+Day 1
+-------
+
+Woke up, rented car, Tomek drove us from Krakow to Dynow. About 3 hours. Most of it by the new Dynow to Rzezow highway in 1 hour, then 2 hours for the rest down windy country roads.
+
+Arrived at Dynow around 2pm. Found the bibliothetica around 3pm but it was closing (it was Saturday) and the librarian didn't want to help us. Found the graveyard which was fenced in, but the gatekeeper let us in. The tall trees, screeching crows, and memorials made it a very intense experience. 
+
 
 Tips for Jews tracking down roots in Poland
----------------------------------------------
+=============================================
 
 * Bring a Polish translator. Seriously.
 * It doesn't hurt to know Hebrew either.
@@ -35,13 +41,13 @@ Researching my family.
 .. _newspapers: https://github.com/pydanny/dynow-trip-2013/blob/master/newspapers.rst
 
 Dynow Links
---------------
+=============
 
 * http://kehilalinks.jewishgen.org/dynow/
 * http://www.jewishgen.org/yizkor/dynow/dynow.html
 
 Directions to Dynow from Krakow
---------------------------------
+=================================
 
 .. raw:: 
 

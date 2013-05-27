@@ -2,11 +2,13 @@
 Dynow Trip 2013
 ======================
 
+We had from Saturday to Tuesday.
+
 Places visited so far
 =========================
 
 * Dynow: The Graveyard of my ancestors
-* Dynow: Bibliothetic (need to return)
+* Dynow: Bibliothetica (need to return)
 * Dynow: Jewish Center (details forthcoming)
 * Lancut: Lancut Castle (Sunday so everything research related was closed)
 
@@ -16,9 +18,15 @@ Days
 Day 1
 -------
 
-Woke up, rented car, Tomek drove us from Krakow to Dynow. About 3 hours. Most of it by the new Dynow to Rzezow highway in 1 hour, then 2 hours for the rest down windy country roads.
+(Danny) Woke up, rented car, Tomek drove us from Krakow to Dynow. About 3 hours. Most of it by the new Dynow to Rzezow highway in 1 hour, then 2 hours for the rest down windy country roads.
 
-Arrived at Dynow around 2pm. Found the bibliothetica around 3pm but it was closing (it was Saturday) and the librarian didn't want to help us. Found the graveyard which was fenced in, but the gatekeeper let us in. The tall trees, screeching crows, and memorials made it a very intense experience. 
+(Danny) Arrived at Dynow around 2pm. Found the bibliothetica around 3pm but it was closing (it was Saturday) and the librarian didn't want to help us. Found the graveyard which was fenced in, but the gatekeeper let us in. The tall trees, screeching crows, and memorials made it a very intense experience. 
+
+(Danny) The gatekeeper told us where to find the Jewish Center of Dynow. It's a cinderblock building on the San river valley flood plain still under construction, but contains a synagogue and hostel. Unfortunately the Rabbi was in Israel and wouldn't be back until Thursday. The caretaker, an animated Polish lady, recommend we bring small gifts to the lady running the Bibliothetica, which was closed on Monday (but she was trying to get it opened up for us). 
+
+(Danny) We looked for another cemetery but getting there appeared to involve climbing up a muddy track through the woods. Since it was getting dark, we decided to head to the hotel.
+
+(Danny) Our hotel for the night was in the chateau of ??? castle near Przemysl, about 40 minutes away.
 
 
 Tips for Jews tracking down roots in Poland

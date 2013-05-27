@@ -1,7 +1,18 @@
 Lineage
 ========
 
-* Isadore Aaron (great grandfather who came from Dynow), Born April 15, 1891 emigrated to the USA in July 10, 1902, Deceased 1965
+
+* Moses Aaron (b-1845): married to Blina Davis Arm, emigrated to USA in 1898)
+
+    * Possibly Moses Arm (Tailor, but in Dynow possibly "hide and skin" dealer according to 'http://kehilalinks.jewishgen.org/Dynow/Business.htm')
+    
+    * Feige Arm Weitzler
+    
+    * Isadore Aaron (great grandfather who came from Dynow), Born April 15, 1891 emigrated to the USA in July 10, 1902, Deceased 1965
+
+Info
+-----
+
 * Bernice Bernstein (grandfather’s cousin, daughter of Moses Arm, Grand-daughter of Mayer 
 
 

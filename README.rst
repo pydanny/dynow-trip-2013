@@ -32,11 +32,11 @@ Day 1
 Tips for Jews tracking down roots in Poland
 =============================================
 
-* Bring a Polish translator. Seriously.
+* Bring a Polish translator. You will waste your time otherwise. The ability to speak English in Polish cities is not matched in rural areas. 
 * It doesn't hurt to know Hebrew either.
-* Bring small gifts for people who maintain things like libraries and archives.
+* Bring small gifts for people who help you find stuff. Give it to them afterwards, and .
 * Rent a car. That means an international driver's license (or local driver) and ability to drive stick shift.
-* Poland, outside or railway and a small highways still under active construction, is curvy country roads. This makes distances very large. In the US 200 miles is 3 hours, in Poland it takes 6-8 hours to traverse the same distance.
+* Poland, outside or railway and a small highways still under active construction, is curvy country roads. This makes distances very large. In the US 200 miles is 3 hours, in Poland it takes 6-8 hours to traverse the same distance. 
 
 Researching my family. 
 
@@ -61,3 +61,9 @@ Directions to Dynow from Krakow
 .. raw:: 
 
     <iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?f=d&amp;source=s_d&amp;saddr=Krak%C3%B3w,+Poland&amp;daddr=Dyn%C3%B3w,+Poland&amp;hl=en&amp;geocode=FQrt-wIdFFYwASnRGE41wEQWRzG_ikd2tbZrtA%3BFXVl-AId9UBTASlTZH9CSmA8RzEcLGVO0JHsGw&amp;aq=0&amp;oq=Kra&amp;sll=49.832668,22.233582&amp;sspn=0.468586,1.425476&amp;mra=ls&amp;ie=UTF8&amp;t=m&amp;ll=49.953021,21.09613&amp;spn=0.238141,2.307969&amp;output=embed"></iframe><br /><small><a href="https://maps.google.com/maps?f=d&amp;source=embed&amp;saddr=Krak%C3%B3w,+Poland&amp;daddr=Dyn%C3%B3w,+Poland&amp;hl=en&amp;geocode=FQrt-wIdFFYwASnRGE41wEQWRzG_ikd2tbZrtA%3BFXVl-AId9UBTASlTZH9CSmA8RzEcLGVO0JHsGw&amp;aq=0&amp;oq=Kra&amp;sll=49.832668,22.233582&amp;sspn=0.468586,1.425476&amp;mra=ls&amp;ie=UTF8&amp;t=m&amp;ll=49.953021,21.09613&amp;spn=0.238141,2.307969" style="color:#0000FF;text-align:left">View Larger Map</a></small>
+    
+Books
+======
+
+* http://en.wikipedia.org/wiki/Special:BookSources/9788392691204
+* http://en.wikipedia.org/wiki/Special:BookSources/8389437402

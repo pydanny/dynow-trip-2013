@@ -8,25 +8,9 @@ Places visited so far
 =========================
 
 * Dynow: The Graveyard of my ancestors
-* Dynow: Bibliothetica (need to return)
 * Dynow: Jewish Center (details forthcoming)
 * Lancut: Lancut Castle (Sunday so everything research related was closed)
-
-Days
-=====
-
-Day 1
--------
-
-(Danny) Woke up, rented car, Tomek drove us from Krakow to Dynow. About 3 hours. Most of it by the new Dynow to Rzezow highway in 1 hour, then 2 hours for the rest down windy country roads.
-
-(Danny) Arrived at Dynow around 2pm. Found the bibliothetica around 3pm but it was closing (it was Saturday) and the librarian didn't want to help us. Found the graveyard which was fenced in, but the gatekeeper let us in. The tall trees, screeching crows, and memorials made it a very intense experience. 
-
-(Danny) The gatekeeper told us where to find the Jewish Center of Dynow. It's a cinderblock building on the San river valley flood plain still under construction, but contains a synagogue and hostel. Unfortunately the Rabbi was in Israel and wouldn't be back until Thursday. The caretaker, an animated Polish lady, recommend we bring small gifts to the lady running the Bibliothetica, which was closed on Monday (but she was trying to get it opened up for us). 
-
-(Danny) We looked for another cemetery but getting there appeared to involve climbing up a muddy track through the woods. Since it was getting dark, we decided to head to the hotel.
-
-(Danny) Our hotel for the night was in the chateau of ??? castle near Przemysl, about 40 minutes away.
+* Dynow: Bibliothetica (Library)
 
 
 Tips for Jews tracking down roots in Poland
@@ -34,7 +18,7 @@ Tips for Jews tracking down roots in Poland
 
 * Bring a Polish translator. You will waste your time otherwise. The ability to speak English in Polish cities is not matched in rural areas. 
 * It doesn't hurt to know Hebrew either.
-* Bring small gifts for people who help you find stuff. Give it to them afterwards, and .
+* Bring small gifts for people who help you find stuff. Give it to them after they help you.
 * Rent a car. That means an international driver's license (or local driver) and ability to drive stick shift.
 * Poland, outside or railway and a small highways still under active construction, is curvy country roads. This makes distances very large. In the US 200 miles is 3 hours, in Poland it takes 6-8 hours to traverse the same distance. 
 
@@ -43,10 +27,14 @@ Researching my family.
 * lineage_
 * addresses_
 * newspapers_
+* photos_
+* `other_photos`_
 
 .. _lineage: https://github.com/pydanny/dynow-trip-2013/blob/master/lineage.rst
 .. _addresses: https://github.com/pydanny/dynow-trip-2013/blob/master/addresses.txt
 .. _newspapers: https://github.com/pydanny/dynow-trip-2013/blob/master/newspapers.rst
+.. _photos: http://www.flickr.com/photos/pydanny/sets/72157635453007448/
+.. _`other photos`: http://www.flickr.com/photos/pydanny/sets/72157635445513935/
 
 Dynow Links
 =============
@@ -67,3 +55,19 @@ Books
 
 * http://en.wikipedia.org/wiki/Special:BookSources/9788392691204
 * http://en.wikipedia.org/wiki/Special:BookSources/8389437402
+
+Days
+=====
+
+Day 1
+-------
+
+(Danny) Woke up, rented car, Tomek drove us from Krakow to Dynow. About 3 hours. Most of it by the new Dynow to Rzezow highway in 1 hour, then 2 hours for the rest down windy country roads.
+
+(Danny) Arrived at Dynow around 2pm. Found the bibliothetica around 3pm but it was closing (it was Saturday) and the librarian didn't want to help us. Found the graveyard which was fenced in, but the gatekeeper let us in. The tall trees, screeching crows, and memorials made it a very intense experience. 
+
+(Danny) The gatekeeper told us where to find the Jewish Center of Dynow. It's a cinderblock building on the San river valley flood plain still under construction, but contains a synagogue and hostel. Unfortunately the Rabbi was in Israel and wouldn't be back until Thursday. The caretaker, an animated Polish lady, recommend we bring small gifts to the lady running the Bibliothetica, which was closed on Monday (but she was trying to get it opened up for us). 
+
+(Danny) We looked for another cemetery but getting there appeared to involve climbing up a muddy track through the woods. Since it was getting dark, we decided to head to the hotel.
+
+(Danny) Our hotel for the night was in the chateau of ??? castle near Przemysl, about 40 minutes away.

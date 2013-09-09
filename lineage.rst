@@ -8,7 +8,7 @@ Lineage
     
     * Feige Arm Weitzler
     
-    * Isadore Aaron (great grandfather who came from Dynow), Born April 15, 1891 emigrated to the USA in July 10, 1902, Deceased 1965
+    * Isadore Aaron (great grandfather who came from Dynow), Born April 15, 1891 emigrated to the USA in July 10, 1902, Deceased July 16, 1963
 
 Info
 -----
